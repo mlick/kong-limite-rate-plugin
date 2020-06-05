@@ -9,4 +9,4 @@ kong 限制下载速率 插件
 `ngx.var.limit_rate`  
 `ngx.var.limit_rate_after`
 
-这个是在openresty提供的两种方式
+这个是在OpenResty提供的两种方式
